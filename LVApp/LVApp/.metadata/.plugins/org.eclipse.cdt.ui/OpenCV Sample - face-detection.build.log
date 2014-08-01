@@ -1,0 +1,9 @@
+21:53:01 **** Auto Build of configuration Default for project OpenCV Sample - face-detection ****
+home/sai/Tools/android-ndk-r9d/ndk-build.cmd 
+Cannot run program "home/sai/Tools/android-ndk-r9d/ndk-build.cmd": Unknown reason
+
+Error: Program "home/sai/Tools/android-ndk-r9d/ndk-build.cmd" not found in PATH
+PATH=[/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games]
+
+21:53:01 Build Finished (took 18ms)
+
